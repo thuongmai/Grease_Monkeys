@@ -1,7 +1,7 @@
-#GREASE MONKEYS	
-###The work presented in this paper is new and was prepared only for the course COMP 2501 Computer Game Design and Development, Winter 2016, School of Computer Science, Carleton University.
+# GREASE MONKEYS	
+### The work presented in this paper is new and was prepared only for the course COMP 2501 Computer Game Design and Development, Winter 2016, School of Computer Science, Carleton University.
 
-###Programmers:
+### Programmers:
 * Christina Abramson
 * Wilson Hodgson
 * Thuong Mai
@@ -17,7 +17,7 @@ drive vehicles and avoids being hit by enemies. The game has two main characters
 (brown monkey) and the AI enemy (gray monkey). The player can then choose to enter and drive 
 one of the four different vehicles (red, green, blue and black), each with its own controls. 
 The player can also pick up and use three different power up items. For the UI elements, 
-we have a player’s health bar at the top right of the screen to indicate how much health a car has left, 
+we have a playerâ€™s health bar at the top right of the screen to indicate how much health a car has left, 
 and an inventory at the bottom right to indicate what items the player has collected so far. 
 The arena is a square shape that was drawn by using vertex array to allow the player and AI move freely, 
 also for the smooth scrolling screen.
